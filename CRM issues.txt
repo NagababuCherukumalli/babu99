@@ -1,0 +1,5 @@
+1.Group image not reflected in left side,when  change the image.
+2.The respective member update the Group,the notification is admin update the group
+3.When refresh the Group, the chat notification displayed double
+4.view info screen is not open ,when open the viewmention and click on the Group icon
+5.multiple user concept not working ,when forward the message 
